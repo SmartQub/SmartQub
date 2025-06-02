@@ -1,16 +1,37 @@
-# Introduction to GitHub
+<h1 align="center">مرحباً، أنا SmartQub 👋</h1>
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey @SmartQub!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/SmartQub/SmartQub/issues/1)
+<p align="center">
+مبدع في المحتوى الرقمي والتقني، أستخدم الذكاء الاصطناعي لتحويل الأفكار إلى أدوات ذكية ومواقع تفاعلية 🌐⚡
+</p>
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### 🧠 عني
+- 💼 مهتم بصناعة الصفحات الذكية والواجهات البسيطة التي تقدم حلول سريعة
+- 🚀 أشتغل على مشاريع خاصة في **تحسين تجربة المستخدم** و**تسويق الأدوات الذكية**
+- 🎯 هدفي: ربط التكنولوجيا مع التسويق الرقمي بطرق فعالة وسهلة الوصول
+- 💡 أستخدم أدوات زي: HTML, CSS, JavaScript, AI APIs, Notion, ChatGPT, Submagic وغيرها
+- 🔗 شريك تابع لأفضل الأدوات الرقمية في السوق
 
+---
+
+### 🚀 أبرز المشاريع
+| المشروع | الوصف |
+|---------|-------|
+| [Submagic Landing Page](https://github.com/SmartQub/submagic-page) | صفحة هبوط تسويقية بسيطة باستخدام HTML لرفع التحويل |
+| [AI Content Tools](#) | أدوات مساعدة لإنشاء محتوى ذكي باستخدام الذكاء الاصطناعي |
+| [Mini SaaS تجريبي](#) | مشروع مبدئي لأداة بسيطة قائمة على API |
+
+---
+
+### 📫 تواصل معي
+- 📧 Email: smartqub.business@gmail.com
+- 💼 LinkedIn: [قريباً]
+- 🌍 موقعي الشخصي: [smartqub.github.io](https://smartqub.github.io)
+
+---
+
+### ⚡ اهتماماتي التقنية
+`#AI` `#SaaS` `#AffiliateMarketing` `#HTML` `#UXDesign` `#LandingPages` `#Automation`
+
+> "البساطة هي الذكاء الحقيقي." — SmartQub 💡
