@@ -26,8 +26,9 @@
 ---
 
 ### 📫 تواصل معي
-- 📧 Email: smartqub.business@gmail.com
-- 💼 LinkedIn: [قريباً]
+- 📧 Email: abo3qb44@outlook.com
+- 
+- 💼(https://linktr.ee/yaqoub_mousa)
 - 🌍 موقعي الشخصي: [smartqub.github.io](https://smartqub.github.io)
 
 ---
